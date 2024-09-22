@@ -30,7 +30,6 @@ The purpose of this repository is to showcase a practical implementation of how 
    ```
 
    If you don't have Git installed, you can download the repository as a ZIP file:
-   - Visit https://github.com/byahmedali/Understand-RAG-with-OpenSource-Resources
    - Click on the "Code" button and select "Download ZIP"
    - Extract the ZIP file to your desired folder
    - Open a terminal or command prompt and navigate to the extracted folder
