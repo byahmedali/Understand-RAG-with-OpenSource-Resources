@@ -28,6 +28,7 @@ The purpose of this repository is to showcase a practical implementation of how 
    ```
 
 2. **Set up a virtual environment**
+
    a. Create a new virtual environment:
    ```
    python -m venv venv
