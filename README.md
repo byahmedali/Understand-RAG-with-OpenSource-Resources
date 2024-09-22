@@ -69,7 +69,7 @@ The purpose of this repository is to showcase a practical implementation of how 
    
    b. Install Ollama following the instructions for your OS.
    
-   c. Once installed, run the following command in your terminal or command prompt to download the required embedding model:
+   c. Once installed, run the following command to download the required embedding model:
    
    ```
    ollama pull nomic-embed-text
@@ -79,7 +79,7 @@ The purpose of this repository is to showcase a practical implementation of how 
 
 5. **Set up environment variables**
 
-   Set up your Groq API key as an environment variable. Run these commands in your terminal or command prompt:
+   Set up your Groq API key as an environment variable.
 
    For Linux/macOS:
    ```
