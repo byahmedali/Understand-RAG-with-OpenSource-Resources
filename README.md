@@ -22,10 +22,18 @@ The purpose of this repository is to showcase a practical implementation of how 
 
 1. **Clone the repository**
 
+   Open your terminal or command prompt and navigate to your desired folder. Then run:
+
    ```
    git clone https://github.com/byahmedali/Understand-RAG-with-OpenSource-Resources understand-RAG
    cd understand-RAG
    ```
+
+   If you don't have Git installed, you can download the repository as a ZIP file:
+   - Visit https://github.com/byahmedali/Understand-RAG-with-OpenSource-Resources
+   - Click on the "Code" button and select "Download ZIP"
+   - Extract the ZIP file to your desired folder
+   - Open a terminal or command prompt and navigate to the extracted folder
 
 2. **Set up a virtual environment**
 
