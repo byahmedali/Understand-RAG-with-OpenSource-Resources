@@ -23,7 +23,7 @@ The purpose of this repository is to showcase a practical implementation of how 
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/your-username/understand-RAG.git
+   git clone https://github.com/byahmedali/Understand-RAG-with-OpenSource-Resources
    cd understand-RAG
    ```
 
