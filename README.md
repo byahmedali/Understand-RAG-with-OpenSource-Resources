@@ -14,7 +14,7 @@ The purpose of this repository is to showcase a practical implementation of how 
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8 or higher (Project was created using Python 3.12.2)
 - [Ollama](https://ollama.com/) (for local embeddings)
 - [Groq API key](https://console.groq.com/docs/quickstart)
 
