@@ -14,7 +14,7 @@ The purpose of this repository is to showcase a practical implementation of how 
 
 ## Prerequisites
 
-- Python 3.8 or higher (Project was created using Python 3.12.2)
+- Python 3.8 or higher (project was created using Python 3.12.2)
 - [Ollama](https://ollama.com/) (for local embeddings)
 - [Groq API key](https://console.groq.com/docs/quickstart)
 
@@ -23,16 +23,31 @@ The purpose of this repository is to showcase a practical implementation of how 
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/byahmedali/Understand-RAG-with-OpenSource-Resources
+   git clone https://github.com/byahmedali/Understand-RAG-with-OpenSource-Resources understand-RAG
    cd understand-RAG
    ```
 
 2. **Set up a virtual environment**
-
+   a. Create a new virtual environment:
    ```
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
+
+   b. Activate the virtual environment:
+   
+   For Linux/macOS:
+   ```
+   source venv/bin/activate
+   ```
+   
+   For Windows:
+   ```
+   venv\Scripts\activate.bat
+   ```
+
+   c. Confirm you're using the newly created environment:
+   
+   If you see environment name `(venv)` at the beginning of your command prompt, it confirms that you're using the newly created virtual environment.
 
 3. **Install dependencies**
 
